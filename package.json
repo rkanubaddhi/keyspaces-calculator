@@ -2,6 +2,7 @@
   "name": "keyspaces-pricing-calculator",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://b0.p.awsstatic.com",
   "dependencies": {
     "@cloudscape-design/components": "^3.0.782",
     "@cloudscape-design/global-styles": "^1.0.32",
@@ -10,8 +11,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.3",
     "http-proxy-middleware": "^3.0.3",
-    "jspdf": "^2.5.2",
-    "jspdf-autotable": "^3.8.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
