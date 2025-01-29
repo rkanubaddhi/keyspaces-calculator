@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/keyspaces-calculator/static/css/main.53272971.css",
+    "main.js": "/keyspaces-calculator/static/js/main.5643aff2.js",
+    "static/js/498.4741aa50.chunk.js": "/keyspaces-calculator/static/js/498.4741aa50.chunk.js",
+    "static/js/703.97cc1946.chunk.js": "/keyspaces-calculator/static/js/703.97cc1946.chunk.js",
+    "static/js/379.c7efb7a1.chunk.js": "/keyspaces-calculator/static/js/379.c7efb7a1.chunk.js",
+    "static/js/787.05e7aa11.chunk.js": "/keyspaces-calculator/static/js/787.05e7aa11.chunk.js",
+    "index.html": "/keyspaces-calculator/index.html",
+    "main.53272971.css.map": "/keyspaces-calculator/static/css/main.53272971.css.map",
+    "main.5643aff2.js.map": "/keyspaces-calculator/static/js/main.5643aff2.js.map",
+    "498.4741aa50.chunk.js.map": "/keyspaces-calculator/static/js/498.4741aa50.chunk.js.map",
+    "703.97cc1946.chunk.js.map": "/keyspaces-calculator/static/js/703.97cc1946.chunk.js.map",
+    "379.c7efb7a1.chunk.js.map": "/keyspaces-calculator/static/js/379.c7efb7a1.chunk.js.map",
+    "787.05e7aa11.chunk.js.map": "/keyspaces-calculator/static/js/787.05e7aa11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53272971.css",
+    "static/js/main.5643aff2.js"
+  ]
+}
